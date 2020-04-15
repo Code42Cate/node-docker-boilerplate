@@ -1,0 +1,18 @@
+{
+  "name": "node-docker-template",
+  "version": "1.0.0",
+  "description": "Node.js + Docker + GitHub Actions + Google Cloud Container Registry Template",
+  "main": "index.js",
+  "repository": "https://github.com/Code42Cate/node-docker-boilerplate",
+  "author": "Jonas Scholz <jonas.scholz@bbscholz.de>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  }
+}
